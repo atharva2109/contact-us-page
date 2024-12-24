@@ -3,7 +3,7 @@ import styles from "./ContactHeader.module.css";
 
 const ContactHeader = () => {
   return (
-    <div className={`container ${styles.containerheader}`}>
+    <div className={`${styles.containerheader}`}>
       <h1>CONTACT US</h1>
       <p>
         LET’S CONNECT: WE’RE HERE TO HELP, AND WE’D LOVE TO HEAR FROM YOU!
