@@ -1,0 +1,9 @@
+.containerheader h1 {
+  font-size: 48px;
+  font-weight: 800;
+}
+
+.containerheader p {
+  font-size: 16px;
+  font-weight: 600;
+}
